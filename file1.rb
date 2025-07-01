@@ -4,4 +4,4 @@ class File
   end
 end
 
-File.hello('yamada')
+File.hello('tanaka')
